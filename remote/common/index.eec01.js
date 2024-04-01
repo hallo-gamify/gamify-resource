@@ -30,3 +30,4 @@ System.register("chunks:///_virtual/PlayerInboxType.ts",["cc"],(function(_){var 
     };
     });
 });
+//# sourceMappingURL=index.js.map
