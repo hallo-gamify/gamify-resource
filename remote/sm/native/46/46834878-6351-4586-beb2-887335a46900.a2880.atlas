@@ -1,0 +1,97 @@
+
+spin_button.png
+size: 608,388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btnquay
+  rotate: false
+  xy: 298, 146
+  size: 127, 127
+  orig: 131, 131
+  offset: 2, 2
+  index: -1
+quay
+  rotate: false
+  xy: 2, 313
+  size: 70, 70
+  orig: 74, 74
+  offset: 2, 2
+  index: -1
+ring2
+  rotate: false
+  xy: 336, 275
+  size: 108, 108
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+ring_15
+  rotate: false
+  xy: 74, 307
+  size: 132, 76
+  orig: 150, 150
+  offset: 8, 5
+  index: -1
+spark2/spark_01
+  rotate: false
+  xy: 208, 283
+  size: 126, 100
+  orig: 200, 200
+  offset: 45, 54
+  index: -1
+spark2/spark_02
+  rotate: false
+  xy: 2, 187
+  size: 143, 118
+  orig: 200, 200
+  offset: 35, 48
+  index: -1
+spark2/spark_03
+  rotate: false
+  xy: 427, 138
+  size: 150, 127
+  orig: 200, 200
+  offset: 32, 44
+  index: -1
+spark2/spark_04
+  rotate: false
+  xy: 291, 2
+  size: 157, 134
+  orig: 200, 200
+  offset: 28, 39
+  index: -1
+spark2/spark_05
+  rotate: false
+  xy: 450, 2
+  size: 156, 134
+  orig: 200, 200
+  offset: 29, 39
+  index: -1
+spark2/spark_06
+  rotate: false
+  xy: 133, 20
+  size: 156, 133
+  orig: 200, 200
+  offset: 30, 39
+  index: -1
+spark2/spark_07
+  rotate: true
+  xy: 2, 32
+  size: 153, 129
+  orig: 200, 200
+  offset: 33, 40
+  index: -1
+spark2/spark_08
+  rotate: false
+  xy: 147, 155
+  size: 149, 126
+  orig: 200, 200
+  offset: 37, 43
+  index: -1
+spark2/spark_09
+  rotate: false
+  xy: 446, 267
+  size: 145, 116
+  orig: 200, 200
+  offset: 39, 42
+  index: -1
