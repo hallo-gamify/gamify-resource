@@ -1,7 +1,7 @@
-System.register("chunks:///_virtual/translations",[],(function(){return{execute:function(){}}}));
+System.register("bundle://translations/_virtual/translations",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/translations', 'chunks:///_virtual/translations'); 
+  r('virtual:///prerequisite-imports/translations', 'bundle://translations/_virtual/translations'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {

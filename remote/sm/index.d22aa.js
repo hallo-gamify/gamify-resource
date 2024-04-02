@@ -1,7 +1,7 @@
-System.register("chunks:///_virtual/sm",[],(function(){return{execute:function(){}}}));
+System.register("bundle://sm/_virtual/sm",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/sm', 'chunks:///_virtual/sm'); 
+  r('virtual:///prerequisite-imports/sm', 'bundle://sm/_virtual/sm'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {
